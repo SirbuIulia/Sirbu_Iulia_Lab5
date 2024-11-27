@@ -1,0 +1,6 @@
+@Sirbu_Iulia_Lab5_HostAddress = http://localhost:5010
+
+GET {{Sirbu_Iulia_Lab5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
